@@ -15,7 +15,7 @@ const ownerlist = ownervb.split(';');
 
 global.owner = [];
 for (let i = 0; i < ownerlist.length; i += 2) {
-    const owner = [
+    const owner = [ 94781876282, " Resandu Nimsara " ]
         ownerlist[i],            
         ownerlist[i + 1],         
         true                        
